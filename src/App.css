@@ -1,0 +1,27 @@
+.react-calendar {
+  width: calc(100vw - 60px);
+  margin: auto;
+  margin-top: 30px;
+  border: 1px solid #f0f0f0 !important;
+}
+
+.hebrew-string {
+  direction: rtl;
+  text-align: right;
+  padding: 4px 0 0 0;
+}
+
+.react-calendar__tile {
+  height: 60;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  border: 1px solid #f7f7f7 !important;
+}
+
+@media screen and (max-width: 320px) {
+  .react-calendar {
+    width: 320px;
+  }
+}
