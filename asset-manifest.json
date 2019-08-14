@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hebrewcalendar/static/css/main.7f70de8f.chunk.css",
+    "main.js": "/hebrewcalendar/static/js/main.21ff40d6.chunk.js",
+    "main.js.map": "/hebrewcalendar/static/js/main.21ff40d6.chunk.js.map",
+    "runtime~main.js": "/hebrewcalendar/static/js/runtime~main.59a2a83d.js",
+    "runtime~main.js.map": "/hebrewcalendar/static/js/runtime~main.59a2a83d.js.map",
+    "static/css/2.c51b6406.chunk.css": "/hebrewcalendar/static/css/2.c51b6406.chunk.css",
+    "static/js/2.61017446.chunk.js": "/hebrewcalendar/static/js/2.61017446.chunk.js",
+    "static/js/2.61017446.chunk.js.map": "/hebrewcalendar/static/js/2.61017446.chunk.js.map",
+    "index.html": "/hebrewcalendar/index.html",
+    "precache-manifest.6bfaba46fac471fd998b81aecb4404f0.js": "/hebrewcalendar/precache-manifest.6bfaba46fac471fd998b81aecb4404f0.js",
+    "service-worker.js": "/hebrewcalendar/service-worker.js",
+    "static/css/2.c51b6406.chunk.css.map": "/hebrewcalendar/static/css/2.c51b6406.chunk.css.map",
+    "static/css/main.7f70de8f.chunk.css.map": "/hebrewcalendar/static/css/main.7f70de8f.chunk.css.map"
+  }
+}
